@@ -1,0 +1,10 @@
+{
+  "name": "PacketLogger",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "~3.2.6",
+    "jade": "~0.31.2"
+  }
+}
