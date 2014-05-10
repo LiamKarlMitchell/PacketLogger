@@ -1,0 +1,23 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'E:\\node\\\\node.exe',
+1 verbose cli   'E:\\node\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'faq' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose node symlink E:\node\\node.exe
+5 error Error: Command failed: The system cannot find the file E:\node\node_modules\npm\html\doc\cli\faq.html.
+5 error
+5 error     at ChildProcess.exithandler (child_process.js:637:15)
+5 error     at ChildProcess.EventEmitter.emit (events.js:98:17)
+5 error     at maybeClose (child_process.js:743:16)
+5 error     at Process.ChildProcess._handle.onexit (child_process.js:810:5)
+6 error If you need help, you may report this *entire* log,
+6 error including the npm and node versions, at:
+6 error     <http://github.com/npm/npm/issues>
+7 error System Windows_NT 6.1.7600
+8 error command "E:\\node\\\\node.exe" "E:\\node\\node_modules\\npm\\bin\\npm-cli.js" "faq"
+9 error cwd E:\node\projects\PacketLogger
+10 error node -v v0.10.26
+11 error npm -v 1.4.3
+12 error code 1
+13 verbose exit [ 1, true ]
